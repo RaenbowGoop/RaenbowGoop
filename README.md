@@ -6,7 +6,7 @@ About Me:
 - Name: Amanda Le
 - Nickname: Shiny
 - Interests: Game Development, Computer Science, Digital Illustration, Baking, Playing Video Games, Video Editing
-- Current Education Status: Computer Science and Engineering Senior at UCI
+- Education: Computer Science and Engineering Graduate from the University of California, Irvine (2025)
 
 <!---
 RaenbowGoop/RaenbowGoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
